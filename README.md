@@ -31,7 +31,7 @@ Exemples d’informations enregistrées :
 - age
 - diagnostique
 - montant
-- Antécédents médicaux
+- reste à payer
 - Observations
 
 ### 2. Gestion des recettes
