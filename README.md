@@ -113,7 +113,7 @@ project/
 └── README.md
 ```
 
-## Installation
+## 
 
 ### Prérequis
 
