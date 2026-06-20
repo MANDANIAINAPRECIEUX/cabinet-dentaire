@@ -28,7 +28,7 @@ Le système permet d’ajouter, consulter, modifier et supprimer les information
 Exemples d’informations enregistrées :
 - Nom et prénom
 - Sexe
-- Date de naissance
+- age
 - Téléphone
 - Adresse
 - Antécédents médicaux
