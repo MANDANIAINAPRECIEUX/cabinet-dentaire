@@ -30,7 +30,7 @@ Exemples d’informations enregistrées :
 - Sexe
 - age
 - diagnostique
-- Adresse
+- montant
 - Antécédents médicaux
 - Observations
 
