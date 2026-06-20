@@ -16,7 +16,7 @@ Il centralise les informations des patients, les recettes, les dépenses ainsi q
 - Tableau de bord mensuel
 - Tableau de bord annuel
 - Calcul automatique des totaux et bénéfices
-- Interface d’administration moderne avec Tailwind CSS
+- Interface d’administration moderne - Tailwind CSS
 - Authentification des utilisateurs
 - Architecture propre et évolutive
 
